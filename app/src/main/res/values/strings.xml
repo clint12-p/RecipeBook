@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Recipe Book</string>
+    <string name="savory">Savory</string>
+    <string name="sweet">Sweet</string>
+    <string name="recipe_title_hint">Recipe Title</string>
+    <string name="recipe_description_hint">Recipe Description</string>
+    <string name="add_savory">ADD SAVORY</string>
+    <string name="add_sweet">ADD SWEET</string>
+    <string name="error_empty_title">Please enter a recipe title</string>
+    <string name="error_empty_description">Please enter a recipe description</string>
+    <string name="dialog_close">Close</string>
+    <string name="recipe_deleted">Recipe deleted</string>
+</resources>

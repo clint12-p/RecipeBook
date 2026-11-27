@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="green_primary">#2E7D32</color>
+    <color name="green_dark">#1B5E20</color>
+    <color name="green_light">#C8E6C9</color>
+    <color name="green_accent">#388E3C</color>
+
+    <color name="savory_color">#2E7D32</color>
+    <color name="savory_bg">#E8F5E9</color>
+    <color name="sweet_color">#C2185B</color>
+    <color name="sweet_bg">#FCE4EC</color>
+
+    <color name="background_light">#F5F7F5</color>
+    <color name="surface_white">#FFFFFF</color>
+    <color name="card_stroke">#E0E4E0</color>
+
+    <color name="text_primary">#1D1B20</color>
+    <color name="text_secondary">#49454F</color>
+    <color name="divider_color">#E5EAE5</color>
+</resources>
